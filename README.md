@@ -1,4 +1,4 @@
-# mnist_png
+# mnist-png
 
 MNIST 데이터를 PNG 그림 파일로 변환한 데이터입니다.
 - 출처 : https://pjreddie.com/projects/mnist-in-csv/
